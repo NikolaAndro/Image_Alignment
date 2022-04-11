@@ -1,6 +1,6 @@
 # Folder Content
 
-In this folder you can see python and C++ implementation of this project while using OpenCV library.
+There is a solution in C++ and in Python3. 
 
 # Quick Recap
 
